@@ -49,9 +49,14 @@ To run app in command line or IDE (ie. ATOM):
 
 ## App Features
 
+<img src="https://raw.githubusercontent.com/Adriant15/Pomodoro-Timer/main/screenshots/timer_start.jpg" width=35% height=35%>  <img src="https://raw.githubusercontent.com/Adriant15/Pomodoro-Timer/main/screenshots/timer_resume.jpg" width=35% height=35%>
+
 * User can specify the name of the task to focus on for the next 25 minutes.
 * The timer has pause and end-early function. 
 * Information about teach task is stored locally in sqlite3 database.
+
+<img src="https://raw.githubusercontent.com/Adriant15/Pomodoro-Timer/main/screenshots/timer_logger.JPG" width=35% height=35%>
+
 * The logger is build using Tkinter notebook with a tab representing a specific date and lists all the task(s) done with the app on that date.
 * For debugging and/or demonstration, a separate python script and .exe file has been included to generate a sample sqlite3 database file.
 
