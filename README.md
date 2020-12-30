@@ -53,8 +53,18 @@ To run app in command line or IDE (ie. ATOM):
 * The timer has pause and end-early function. 
 * Information about teach task is stored locally in sqlite3 database.
 * The logger is build using Tkinter notebook with a tab representing a specific date and lists all the task(s) done with the app on that date.
-* For testing and demonstration, a separate python script and .exe file has been included to generate a sample sqlite3 database file.
+* For debugging and/or demonstration, a separate python script and .exe file has been included to generate a sample sqlite3 database file.
 
 ## Source
 
 This app is inspired by tutorial David Love "Python Tkinter By Example" 
+
+Improvement implemented:
+
+* Separation of sample script code into three scripts with more defined purpose and ease of debugging.
+* Added scrolling to each tab of the logger.
+* Main GUI window appear in the middle of computer screen. 
+* Logger appear right of the main GUI window.
+* Python script to generate sample database file for app debugging and/or demonstration.
+* Additional comments to explain algorithms locally in code.
+
