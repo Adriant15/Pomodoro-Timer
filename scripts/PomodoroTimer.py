@@ -180,7 +180,7 @@ class Timer(tk.Tk):
                 self.mark_finished_task()
 
         del self.worker
-        msg.showinfo("Promodoro Finished", "25 minutes has elasped. Take a 5 minute break!")
+        msg.showinfo("Promodoro Finished", "Task Finished. Take a 5 minute break!")
 
     """Update the countdown timer to display elasped time.
 
