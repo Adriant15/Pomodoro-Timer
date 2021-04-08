@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-Simple servlet app created with Python and Python libraries.
+Timer app created with Python and Python libraries.
 
 ## Table of contents
 * [General info](#general-info)
